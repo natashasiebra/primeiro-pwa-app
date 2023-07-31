@@ -1,0 +1,15 @@
+{
+  "name": "primeiro-pwa-app",
+  "version": "1.0.0",
+  "description": "primeiro-pwa",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "natasha",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
