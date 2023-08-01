@@ -1,5 +1,8 @@
 body{
-    font-family: sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ff33bb;
+    background-image: url(https://www.ecompletocdn.com.br/i/fp/1926/1518705_1_1687435455.jpg);
+    text-shadow: -1px -1px 0 black, 0px -0px 0 black, -0px 3px 0 black, 5px 5px 0 black;
 
 }
 html, .fullscreen{
