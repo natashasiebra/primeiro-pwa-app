@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "serve": "^14.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natashasiebra/primeiro-pwa-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/natashasiebra/primeiro-pwa-app/issues"
+  },
+  "homepage": "https://github.com/natashasiebra/primeiro-pwa-app#readme"
 }
