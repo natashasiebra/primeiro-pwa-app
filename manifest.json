@@ -3,15 +3,24 @@
     "short_name": "Primeira Pwa",
     "icons":[
         {
-            "src": "images/e29b45faa9ddb74dde8c4b7a85a5b160.jpg",
+            "src": "images/e29b45faa9ddb74dde8c4b7a85a5b160.png",
             "sizes":"256x256",
-            "type": "imagens/jpg"
+            "type": "image/png",
+            "purpose": "any maskable"
         },
         {
-            "src": "images/f419aeb59a4ac68f9fdc933d55b2712d.jpg",
+            "src": "images/f419aeb59a4ac68f9fdc933d55b2712d.png",
             "sizes":"512x512",
-            "type": "imagens/jpg"
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "path/to/maskable_icon.png",
+            "sizes": "196x196",
+            "type":"image/png",
+            "purpose": "any maskable"
         }
+
     ],
     "lang": "pt-BR",
     "start_url": "/index.html",
